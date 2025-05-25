@@ -126,7 +126,7 @@
 <body>
 
 <div class="sidebar">
-  <div class="sidebar-title">Signature SCCGROUP CPANEL</div>
+  <div class="sidebar-title">Signature SCCGROUP</div>
     <div class="menu-title" onclick="toggleMenu('menu1', this)">
       SCCBakery 
       <i class="fa fa-chevron-down dropdown-icon"></i> 
