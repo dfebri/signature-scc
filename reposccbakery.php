@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Signature SCCGroup GitHub Revert I</title>
+  <title>Signature SCCGroup GitHub Revert Done</title>
   <link rel="icon" type="image/x-icon" href="https://bakewareco.wordpress.com/wp-content/uploads/2025/04/logo-scc-blue-2-1.png" class="header-img">
   <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> -->
   <style>
@@ -126,7 +126,7 @@
 <body>
 
 <div class="sidebar">
-  <div class="sidebar-title">Signature SCCGROUP REVERT CPANEL II</div>
+  <div class="sidebar-title">Signature SCCGROUP UPDATE</div>
     <div class="menu-title" onclick="toggleMenu('menu1', this)">
       SCCBakery 
       <i class="fa fa-chevron-down dropdown-icon"></i> 
